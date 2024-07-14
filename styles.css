@@ -1,0 +1,68 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f0f0f0;
+  color: #333;
+}
+
+header {
+  background: #4a90e2;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+
+nav a {
+  margin: 0 15px;
+  color: white;
+  text-decoration: none;
+}
+
+.hero {
+  background: url("https://beebom.com/wp-content/uploads/2023/06/Anime.jpg?quality=75&strip=all")
+    no-repeat center center/cover;
+  color: white;
+  padding: 100px 20px;
+  text-align: center;
+}
+
+.section {
+  padding: 40px 20px;
+  text-align: center;
+  background: white;
+  margin: 20px auto;
+  border-radius: 8px;
+  max-width: 800px;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+.cta {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 10px;
+  background: #e94e77;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #333;
+  color: white;
+}
+
+footer a {
+  color: #e94e77;
+  text-decoration: none;
+}
+
+.blog-post {
+  margin: 20px 0;
+}
